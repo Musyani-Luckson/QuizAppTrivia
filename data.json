@@ -1,0 +1,1792 @@
+[
+
+  {
+    "question": "In which part of your body would you find the cruciate ligament?",
+    "answers": [
+      {
+        "ans": "Knee",
+        "isCorrect": true
+      },
+      {
+        "ans": "head",
+        "isCorrect": false
+      },
+      {
+        "ans": "feet",
+        "isCorrect": false
+      },
+      {
+        "ans": "chest",
+        "isCorrect": false
+      }
+      ],
+    "category": "biology"
+  },
+  {
+    "question": "What is the name of the main antagonist in the Shakespeare play Othello?",
+    "answers": [
+      { "ans": "Lord Voldemort", "isCorrect": false },
+      { "ans": "Iago", "isCorrect": true },
+      { "ans": "Othello", "isCorrect": false },
+      { "ans": "Desdemona", "isCorrect": false }
+      ],
+    "category": "poetry"
+  },
+  {
+    "question": "What element is denoted by the chemical symbol Sn in the periodic table?",
+    "answers": [
+      { "ans": "sodium", "isCorrect": false },
+      { "ans": "copper", "isCorrect": false },
+      { "ans": "Tin", "isCorrect": true },
+      { "ans": "gold", "isCorrect": false }
+        ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name of the 1976 film about the Watergate scandal, starring Robert Redford and Dustin Hoffman?",
+    "answers": [
+      { "ans": "Marathon Man", "isCorrect": false },
+      { "ans": "Rocky", "isCorrect": false },
+      { "ans": "little big man", "isCorrect": false },
+      { "ans": "All the President 's Men", "isCorrect": true }
+         ],
+    "category": "Films"
+  },
+  {
+    "question": "How many of Henry VIII's wives were called Catherine?",
+    "answers": [
+      { "ans": "3", "isCorrect": true },
+      { "ans": "2", "isCorrect": false },
+      { "ans": "5", "isCorrect": false },
+      { "ans": "4", "isCorrect": false }
+       ],
+    "category": "history"
+  },
+  {
+    "question": "What was the most popular girls name in the UK in 2019?",
+    "answers": [
+      { "ans": "emily", "isCorrect": false },
+      { "ans": "Olivia", "isCorrect": true },
+      { "ans": "lily", "isCorrect": false },
+      { "ans": "ivy", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "Which comedian was the second permanent host of Never Mind the Buzzcocks after Mark Lamarr?",
+    "answers": [
+      { "ans": "greg davies", "isCorrect": false },
+      { "ans": "noel fielding", "isCorrect": false },
+      { "ans": "Simon Amstell", "isCorrect": true },
+      { "ans": "phill jupitus", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "Which popular video game franchise has released games with the subtitles World At War and Black Ops?",
+    "answers": [
+      { "ans": "Codename CURE", "isCorrect": false },
+      { "ans": "WARMODE", "isCorrect": false },
+      { "ans": "F.E.A.R. 3", "isCorrect": false },
+      { "ans": "Call of Duty", "isCorrect": true }
+           ],
+    "category": "Technology"
+
+  },
+  {
+    "question": "In what US State is the city Nashville?",
+    "answers": [
+      { "ans": "Tennessee", "isCorrect": true },
+      { "ans": "Alabama", "isCorrect": false },
+      { "ans": "Florida", "isCorrect": false },
+      { "ans": "Michigan", "isCorrect": false }
+           ],
+    "category": "countries"
+
+  },
+  {
+    "question": "Which rock band was founded by Trent Reznor in 1988?",
+    "answers": [
+      { "ans": "Crossword Clue", "isCorrect": false },
+      { "ans": "Nine Inch Nails", "isCorrect": true },
+      { "ans": "Disco inferno", "isCorrect": false },
+      { "ans": "van halen", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "What is the currency of Denmark?",
+    "answers": [
+      { "ans": "forint", "isCorrect": false },
+      { "ans": "peso", "isCorrect": false },
+      { "ans": "Krone", "isCorrect": true },
+      { "ans": "sheqel or shekel", "isCorrect": false }
+           ],
+    "category": "countries"
+
+  },
+  {
+    "question": "Which Tennis Grand Slam is played on a clay surface?",
+    "answers": [
+      { "ans": "the asian", "isCorrect": false },
+      { "ans": "the austrarian", "isCorrect": false },
+      { "ans": "south african", "isCorrect": false },
+      { "ans": "The French Open(Roland Garros)", "isCorrect": true }
+           ],
+    "category": "sports"
+
+  },
+  {
+    "question": "In which European country would you find the Rijksmuseum?",
+    "answers": [
+      { "ans": "Netherlands", "isCorrect": true },
+      { "ans": "italy", "isCorrect": false },
+      { "ans": "Germany", "isCorrect": false },
+      { "ans": "ukraine", "isCorrect": false }
+           ],
+    "category": "countries"
+
+  },
+  {
+    "question": "How many films have Al Pacino and Robert De Niro appeared in together?",
+    "answers": [
+      { "ans": "Four", "isCorrect": true },
+      { "ans": "two", "isCorrect": false },
+      { "ans": "three", "isCorrect": false },
+      { "ans": "seven", "isCorrect": false }
+           ],
+    "category": "films"
+
+  },
+  {
+    "question": "What was the old name for a Snickers bar before it changed in 1990?",
+    "answers": [
+      { "ans": "Marathon", "isCorrect": true },
+      { "ans": "twix", "isCorrect": false },
+      { "ans": "horse", "isCorrect": false },
+      { "ans": "mars", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "Who was the head of state in Japan during the second world war?",
+    "answers": [
+      { "ans": "Emperor Hirohito", "isCorrect": true },
+      { "ans": "Emperor Taishō", "isCorrect": false },
+      { "ans": "Meiji", "isCorrect": false },
+      { "ans": "Nobusuke Kishi", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "answers": [
+      { "ans": "Mercury", "isCorrect": true },
+      { "ans": "pluto", "isCorrect": false },
+      { "ans": "earth", "isCorrect": false },
+      { "ans": "mars", "isCorrect": false }
+           ],
+    "category": "universe"
+
+  },
+  {
+    "question": "Who wrote the novels Gone Girl and Sharp Objects?",
+    "answers": [
+      { "ans": "gillian jacob", "isCorrect": false },
+      { "ans": "Michael Thomas Flynn", "isCorrect": false },
+      { "ans": "Gillian Flynn", "isCorrect": true },
+      { "ans": "tracy brian", "isCorrect": false }
+           ],
+    "category": "history"
+
+  },
+  {
+    "question": "Which legendary surrealist artist is famous for painting melting clocks?",
+    "answers": [
+      { "ans": "salvador mali", "isCorrect": false },
+      { "ans": "mali graviro", "isCorrect": false },
+      { "ans": "Salvador Dali", "isCorrect": true },
+      { "ans": "archidukee suiki", "isCorrect": false }
+               ],
+    "category": "history"
+
+  },
+  {
+    "question": "Which football club plays its home games at Loftus Road",
+    "answers": [
+      { "ans": "Chelsea F.C.", "isCorrect": false },
+      { "ans": "Liverpool F.C.", "isCorrect": false },
+      { "ans": "Manchester United F.C.", "isCorrect": false },
+      { "ans": "Queen 's Park Rangers", "isCorrect": true }
+                    ],
+    "category": "sports"
+  },
+  {
+    "question": "Continental United States has 4 time zones, can you name them?",
+    "answers": [
+      { "ans": "pacific,mountain,western,southern", "isCorrect": false },
+      { "ans": "Pacific, Mountain, Central, Eastern", "isCorrect": true },
+      { "ans": "southern,central,eastern,mountain", "isCorrect": false },
+      { "ans": "mountain,eastern,southern,central", "isCorrect": false }
+                      ],
+    "category": "Geography"
+  },
+  {
+    "question": "What was the Turkish city of Istanbul called before 1930?",
+    "answers": [
+      { "ans": "Ankara", "isCorrect": false },
+      { "ans": "Bursa", "isCorrect": false },
+      { "ans": "Izmir", "isCorrect": false },
+      { "ans": "Constantinople", "isCorrect": true }
+                        ],
+    "category": "history"
+
+  },
+  {
+    "question": "From which US city do the band The Killers originate?",
+    "answers": [
+      { "ans": "new york", "isCorrect": false },
+      { "ans": "washington DC", "isCorrect": false },
+      { "ans": "chicago", "isCorrect": false },
+      { "ans": "Las Vegas", "isCorrect": true }
+     ],
+    "category": "music"
+
+  },
+  {
+    "question": "Name the Coffee shop in US sitcom Friends",
+    "answers": [
+      { "ans": "Pike's Perk", "isCorrect": false },
+      { "ans": "Lucky Perk", "isCorrect": false },
+      { "ans": "Central Perk", "isCorrect": true },
+      { "ans": "Legal Perks", "isCorrect": false }
+      ],
+    "category": "food"
+
+  },
+  {
+    "question": "How many human players are there on each side in a polo match?",
+    "answers": [
+      { "ans": "two", "isCorrect": false },
+      { "ans": "six", "isCorrect": false },
+      { "ans": "Four", "isCorrect": true },
+      { "ans": "seven", "isCorrect": false }
+                              ],
+    "category": "sports"
+  },
+  {
+    "question": "In what year did Tony Blair become British Prime Minister?",
+    "answers": [
+      { "ans": "1997", "isCorrect": true },
+      { "ans": "1987", "isCorrect": false },
+      { "ans": "1979", "isCorrect": false },
+      { "ans": "1998", "isCorrect": false }
+       ],
+    "category": "history"
+  },
+  {
+    "question": "How many times has England won the men's football World Cup?",
+    "answers": [
+      { "ans": "Once(1966)", "isCorrect": true },
+      { "ans": "twice(1965 and 1969)", "isCorrect": false },
+      { "ans": "once(1969)", "isCorrect": false },
+      { "ans": "none", "isCorrect": false }
+      ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "answers": [
+      { "ans": "Okiato", "isCorrect": false },
+      { "ans": "Auckland", "isCorrect": false },
+      { "ans": "Wellington", "isCorrect": true },
+      { "ans": "Hamilton", "isCorrect": false }
+       ],
+    "category": "countries"
+  },
+  {
+    "question": "Street artist Banksy is originally associated with which British city?",
+    "answers": [
+      { "ans": "london", "isCorrect": false },
+      { "ans": "glasgow", "isCorrect": false },
+      { "ans": "manchester", "isCorrect": false },
+      { "ans": "Bristol", "isCorrect": true }
+         ],
+    "category": "countries"
+  },
+  {
+    "question": "From what grain is the Japanese spirit Sake made?",
+    "answers": [
+      { "ans": "Rice", "isCorrect": true },
+      { "ans": "wheat", "isCorrect": false },
+      { "ans": "Sorghum", "isCorrect": false },
+      { "ans": "Barley", "isCorrect": false }
+     ],
+    "category": "food"
+  },
+  {
+    "question": "computer science... In JavaScrip what is 10 + '1' = ?",
+    "answers": [
+      { "ans": "101", "isCorrect": true },
+      { "ans": "11", "isCorrect": false },
+      { "ans": "10'1'", "isCorrect": false },
+      { "ans": "1001", "isCorrect": false }
+       ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the diameter of the earth?",
+    "answers": [
+      { "ans": "13000", "isCorrect": true },
+      { "ans": "18000", "isCorrect": false },
+      { "ans": "1300", "isCorrect": false },
+      { "ans": "1800", "isCorrect": false }
+       ],
+    "category": "distance"
+  },
+  {
+    "question": "distance and speed..., The Sun and The Earth, how long does the Sun's energy take to reach the Earth?",
+    "answers": [
+      { "ans": "8 minutes", "isCorrect": true },
+      { "ans": "0.8 seconds", "isCorrect": false },
+      { "ans": "24 hours", "isCorrect": false },
+      { "ans": "Zero period", "isCorrect": false }
+       ],
+    "category": "time"
+  },
+  {
+    "question": "speed is what we are all interested in, which car has the most speed of them all?",
+    "answers": [
+      { "ans": "formular 1 race car", "isCorrect": true },
+      { "ans": "bughat", "isCorrect": false },
+      { "ans": "chevlorate", "isCorrect": false },
+      { "ans": "lamboghini", "isCorrect": false }
+       ],
+    "category": "speed"
+  },
+  {
+    "question": "Zambia is a country located in southern Africa and it's dimacation is based on provinces, how many provinces does it have?",
+    "answers": [
+      { "ans": "ten", "isCorrect": true },
+      { "ans": "nine", "isCorrect": false },
+      { "ans": "eight", "isCorrect": false },
+      { "ans": "eleven", "isCorrect": false }
+       ],
+    "category": "countries"
+  },
+  {
+    "question": "In which African country would you find the Victoria Falls",
+    "answers": [
+      { "ans": "Zambia", "isCorrect": true },
+      { "ans": "Zimbabwe", "isCorrect": false },
+      { "ans": "Egypty", "isCorrect": false },
+      { "ans": "Ethiopia", "isCorrect": false }
+       ],
+    "category": "countries"
+  },
+  {
+    "question": "When will be the 31st centuary",
+    "answers": [
+      { "ans": "3200s", "isCorrect": true },
+      { "ans": "3100s", "isCorrect": false },
+      { "ans": "3600s", "isCorrect": false },
+      { "ans": "3000s", "isCorrect": false }
+       ],
+    "category": "time"
+  },
+  {
+    "question": "Which country in Africa is refared to as a Hone Of Africa",
+    "answers": [
+      { "ans": "Ethiopia", "isCorrect": true },
+      { "ans": "South Africa", "isCorrect": false },
+      { "ans": "Ghana", "isCorrect": false },
+      { "ans": "Morroco", "isCorrect": false }
+       ],
+    "category": " countries"
+  },
+  {
+    "question": "Which continent would you find a country with a city called Lusaka?",
+    "answers": [
+      { "ans": "Africa", "isCorrect": true },
+      { "ans": "Asia", "isCorrect": false },
+      { "ans": "Australia", "isCorrect": false },
+      { "ans": "Europe", "isCorrect": false }
+       ],
+    "category": "continents"
+  },
+  {
+    "question": "Barack Obama was number what president of the United State Of America?",
+    "answers": [
+      { "ans": "44th", "isCorrect": true },
+      { "ans": "45th", "isCorrect": false },
+      { "ans": "34th", "isCorrect": false },
+      { "ans": "54th", "isCorrect": false }
+       ],
+    "category": "history"
+  },
+  {
+    "question": "Which of the following data structures is used for searching, inserting, and deleting in logarithmic time complexity?",
+    "answers": [{ "ans": "Binary Search Tree", "isCorrect": true }, { "ans": "Heap", "isCorrect": false }, { "ans": "Linked List", "isCorrect": false }, { "ans": "Array", "isCorrect": false }],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the fundamental unit of computation in a central processing unit (CPU)?",
+    "answers": [
+      { "ans": "Instruction", "isCorrect": true },
+      { "ans": "Program", "isCorrect": false },
+      { "ans": "Data", "isCorrect": false },
+      { "ans": "Algorithm", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "Which programming language is widely used for developing web applications and server-side scripting?",
+    "answers": [
+      { "ans": "JavaScript", "isCorrect": false },
+      { "ans": "Python", "isCorrect": false },
+      { "ans": "PHP", "isCorrect": true },
+      { "ans": "C#", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the algorithm that is used for sorting a list of elements by repeatedly swapping adjacent elements if they are in the wrong order?",
+    "answers": [
+      { "ans": "Selection Sort", "isCorrect": false },
+      { "ans": "Merge Sort", "isCorrect": false },
+      { "ans": "Bubble Sort", "isCorrect": true },
+      { "ans": "Quick Sort", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "Which of the following is a fundamental principle of object-oriented programming?",
+    "answers": [
+      { "ans": "Abstraction", "isCorrect": true },
+      { "ans": "Recursion", "isCorrect": false },
+      { "ans": "Inheritance", "isCorrect": false },
+      { "ans": "Mutation", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the process that converts source code written in a high-level programming language into machine code that can be executed by a computer?",
+    "answers": [
+      { "ans": "Compilation", "isCorrect": true },
+      { "ans": "Interpretation", "isCorrect": false },
+      { "ans": "Debugging", "isCorrect": false },
+      { "ans": "Optimization", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answers": [{ "ans": "Hypertext Transfer Protocol", "isCorrect": true }, { "ans": "Hypertext Transfer Programming", "isCorrect": false }, { "ans": "Hypertext Test Protocol", "isCorrect": false }, { "ans": "Hypertext Testing Programming", "isCorrect": false }],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the binary digit system used by computers?",
+    "answers": [
+      { "ans": "Decimal", "isCorrect": false },
+      { "ans": "Octal", "isCorrect": false },
+      { "ans": "Hexadecimal", "isCorrect": false },
+      { "ans": "Binary", "isCorrect": true }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the memory storage device that retains its data even when the power is turned off?",
+    "answers": [
+      { "ans": "Cache", "isCorrect": false },
+      { "ans": "RAM", "isCorrect": false },
+      { "ans": "ROM", "isCorrect": true },
+      { "ans": "Hard Disk", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the language used to describe the structure of an XML document?",
+    "answers": [
+      { "ans": "JavaScript", "isCorrect": false },
+      { "ans": "CSS", "isCorrect": false },
+      { "ans": "HTML", "isCorrect": false },
+      { "ans": "XML Schema", "isCorrect": true }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "Which type of algorithm makes use of a set of rules to solve a problem?",
+    "answers": [
+      { "ans": "Brute Force", "isCorrect": false },
+      { "ans": "Backtracking", "isCorrect": false },
+      { "ans": "Dynamic Programming", "isCorrect": false },
+      { "ans": "Heuristic", "isCorrect": true }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the popular data science programming language?",
+    "answers": [
+      { "ans": "Java", "isCorrect": false },
+      { "ans": "Python", "isCorrect": true },
+      { "ans": "C++", "isCorrect": false },
+      { "ans": "JavaScript", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "Which programming language is used to build iOS applications?",
+    "answers": [
+      { "ans": "Java", "isCorrect": false },
+      { "ans": "Objective-C", "isCorrect": true },
+      { "ans": "C++", "isCorrect": false },
+      { "ans": "Swift", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What does the acronym HTML stand for?",
+    "answers": [
+      { "ans": "Hyperlink Text Markup Language", "isCorrect": false },
+      { "ans": "Hypertext Transfer Markup Language", "isCorrect": true },
+      { "ans": "Hyperlink Transfer Markup Language", "isCorrect": false },
+      { "ans": "Hypertext Text Markup Language", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is a firewall used for?",
+    "answers": [
+      { "ans": "To block unwanted emails", "isCorrect": false },
+      { "ans": "To restrict access to certain websites", "isCorrect": false },
+      { "ans": "To prevent unauthorized access to a computer network", "isCorrect": true },
+      { "ans": "To speed up internet browsing", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What does the term 'DNS' stand for?",
+    "answers": [
+      { "ans": "Dynamic Network Security", "isCorrect": false },
+      { "ans": "Digital Network Service", "isCorrect": false },
+      { "ans": "Domain Name System", "isCorrect": true },
+      { "ans": "Distributed Network Security", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is a 'stack' in programming?",
+    "answers": [
+      { "ans": "A data structure that operates on a last-in, first-out (LIFO) basis", "isCorrect": true },
+      { "ans": "A data structure that operates on a first-in, first-out (FIFO) basis", "isCorrect": false },
+      { "ans": "A data structure that stores data in key-value pairs", "isCorrect": false },
+      { "ans": "A data structure that represents a collection of similar objects", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is a 'bug' in programming?",
+    "answers": [
+      { "ans": "A small, harmless insect that crawls around your computer", "isCorrect": false },
+      { "ans": "An unexpected error or flaw in software code that causes it to behave in unintended ways", "isCorrect": true },
+      { "ans": "A programming language developed by Google", "isCorrect": false },
+      { "ans": "A type of security vulnerability in a software program", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is the name of the programming paradigm that emphasizes the use of mathematical functions to solve problems?",
+    "answers": [
+      { "ans": "Object-oriented programming", "isCorrect": false },
+      { "ans": "Functional programming", "isCorrect": true },
+      { "ans": "Procedural programming", "isCorrect": false },
+      { "ans": "Event-driven programming", "isCorrect": false }
+    ],
+    "category": "computer science"
+  },
+  {
+    "question": "What is a 'cache' in computing?",
+    "answers": [
+      { "ans": "A type of malware that infects a computer's memory", "isCorrect": false },
+      { "ans": "A temporary storage area where frequently accessed data can be quickly retrieved", "isCorrect": true },
+      { "ans": "A type of hardware that stores large amounts of data", "isCorrect": false },
+      { "ans": "A software program that compresses files to save disk space", "isCorrect": false }
+  ],
+    "category": "computer science"
+},
+  {
+    "question": "Who was the first President of South Africa?",
+    "answers": [{ "ans": "Nelson Mandela", "isCorrect": false }, { "ans": "Thabo Mbeki", "isCorrect": false }, { "ans": "Cyril Ramaphosa", "isCorrect": false }, { "ans": "F.W. de Klerk", "isCorrect": true }],
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the first African country to gain independence?",
+    "answers": [
+      { "ans": "Ghana", "isCorrect": true },
+      { "ans": "Nigeria", "isCorrect": false },
+      { "ans": "South Africa", "isCorrect": false },
+      { "ans": "Zimbabwe", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "Who was the first female President of Liberia?",
+    "answers": [
+      { "ans": "Joyce Banda", "isCorrect": false },
+      { "ans": "Ellen Johnson Sirleaf", "isCorrect": true },
+      { "ans": "Ameenah Gurib-Fakim", "isCorrect": false },
+      { "ans": "Sahle-Work Zewde", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "Which African leader was known as the 'Lion of Judah'?",
+    "answers": [
+      { "ans": "Jomo Kenyatta", "isCorrect": false },
+      { "ans": "Haile Selassie", "isCorrect": true },
+      { "ans": "Kwame Nkrumah", "isCorrect": false },
+      { "ans": "Julius Nyerere", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the African kingdom ruled by Mansa Musa in the 14th century?",
+    "answers": [
+      { "ans": "Kingdom of Ghana", "isCorrect": false },
+      { "ans": "Kingdom of Mali", "isCorrect": true },
+      { "ans": "Kingdom of Benin", "isCorrect": false },
+      { "ans": "Kingdom of Songhai", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the South African anti-apartheid activist who was released from prison in 1990?",
+    "answers": [
+      { "ans": "Winnie Mandela", "isCorrect": false },
+      { "ans": "Desmond Tutu", "isCorrect": false },
+      { "ans": "Steve Biko", "isCorrect": false },
+      { "ans": "Nelson Mandela", "isCorrect": true }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "Who was the first black president of South Africa?",
+    "answers": [{ "ans": "Nelson Mandela", "isCorrect": true }, { "ans": "Thabo Mbeki", "isCorrect": false }, { "ans": "Cyril Ramaphosa", "isCorrect": false }, { "ans": "F.W. de Klerk", "isCorrect": false }],
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the African country that was formerly known as Abyssinia?",
+    "answers": [
+      { "ans": "Ethiopia", "isCorrect": true },
+      { "ans": "Eritrea", "isCorrect": false },
+      { "ans": "Somalia", "isCorrect": false },
+      { "ans": "Djibouti", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the South African student uprising that took place in 1976?",
+    "answers": [
+      { "ans": "Sharpeville Massacre", "isCorrect": false },
+      { "ans": "Soweto Uprising", "isCorrect": true },
+      { "ans": "Marikana Massacre", "isCorrect": false },
+      { "ans": "Rivonia Trial", "isCorrect": false }
+    ],
+    "category": "history"
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "answers": [{ "ans": "Cell", "isCorrect": true }, { "ans": "Molecule", "isCorrect": false }, { "ans": "Organ", "isCorrect": false }, { "ans": "Atom", "isCorrect": false }],
+    "category": "biology"
+  },
+  {
+    "question": "What is the process by which plants convert light energy into chemical energy?",
+    "answers": [
+      { "ans": "Photosynthesis", "isCorrect": true },
+      { "ans": "Respiration", "isCorrect": false },
+      { "ans": "Digestion", "isCorrect": false },
+      { "ans": "Fermentation", "isCorrect": false }
+    ],
+    "category": "biology"
+  },
+  {
+    "question": "Which part of the cell is responsible for producing energy?",
+    "answers": [
+      { "ans": "Mitochondria", "isCorrect": true },
+      { "ans": "Nucleus", "isCorrect": false },
+      { "ans": "Chloroplasts", "isCorrect": false },
+      { "ans": "Ribosomes", "isCorrect": false }
+    ],
+    "category": "biology"
+  },
+  {
+    "question": "What is the name of the molecule that carries genetic information?",
+    "answers": [
+      { "ans": "DNA", "isCorrect": true },
+      { "ans": "RNA", "isCorrect": false },
+      { "ans": "Protein", "isCorrect": false },
+      { "ans": "Enzyme", "isCorrect": false }
+    ],
+    "category": "biology"
+  },
+  {
+    "question": "Which type of blood cell is responsible for carrying oxygen throughout the body?",
+    "answers": [
+      { "ans": "Red blood cells", "isCorrect": true },
+      { "ans": "White blood cells", "isCorrect": false },
+      { "ans": "Platelets", "isCorrect": false },
+      { "ans": "None of the above", "isCorrect": false }
+    ],
+    "category": "biology"
+  },
+  {
+    "question": "What is the name of the process by which cells divide and create new cells?",
+    "answers": [
+      { "ans": "Mitosis", "isCorrect": true },
+      { "ans": "Meiosis", "isCorrect": false },
+      { "ans": "Fermentation", "isCorrect": false },
+      { "ans": "Photosynthesis", "isCorrect": false }
+    ],
+    "category": "biology"
+  },
+  {
+    "question": "What is the highest governing body of international football (soccer)?",
+    "answers": [{ "ans": "FIFA", "isCorrect": true }, { "ans": "UEFA", "isCorrect": false }, { "ans": "CONMEBOL", "isCorrect": false }, { "ans": "AFC", "isCorrect": false }],
+    "category": "sports"
+  },
+  {
+    "question": "What is the national sports of Canada?",
+    "answers": [
+      { "ans": "Lacrosse", "isCorrect": true },
+      { "ans": "Ice Hockey", "isCorrect": false },
+      { "ans": "Curling", "isCorrect": false },
+      { "ans": "Baseball", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most home runs hit in a single Major League Baseball (MLB) season?",
+    "answers": [
+      { "ans": "Barry Bonds", "isCorrect": true },
+      { "ans": "Babe Ruth", "isCorrect": false },
+      { "ans": "Hank Aaron", "isCorrect": false },
+      { "ans": "Mark McGwire", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "In what year did the first modern Olympic Games take place?",
+    "answers": [
+      { "ans": "1896", "isCorrect": true },
+      { "ans": "1900", "isCorrect": false },
+      { "ans": "1924", "isCorrect": false },
+      { "ans": "1936", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the world's most famous cycling race?",
+    "answers": [
+      { "ans": "Tour de France", "isCorrect": true },
+      { "ans": "Giro d'Italia", "isCorrect": false },
+      { "ans": "Vuelta a España", "isCorrect": false },
+      { "ans": "Milan-San Remo", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What country won the 2018 FIFA World Cup?",
+    "answers": [
+      { "ans": "France", "isCorrect": true },
+      { "ans": "Croatia", "isCorrect": false },
+      { "ans": "Belgium", "isCorrect": false },
+      { "ans": "England", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the basketball player who won five NBA MVP awards in the 1980s?",
+    "answers": [{ "ans": "Magic Johnson", "isCorrect": true }, { "ans": "Michael Jordan", "isCorrect": false }, { "ans": "Larry Bird", "isCorrect": false }, { "ans": "Kareem Abdul-Jabbar", "isCorrect": false }],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the horse racing event that is also known as the 'Run for the Roses'?",
+    "answers": [
+      { "ans": "Kentucky Derby", "isCorrect": true },
+      { "ans": "Preakness Stakes", "isCorrect": false },
+      { "ans": "Belmont Stakes", "isCorrect": false },
+      { "ans": "Breeders' Cup", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "Which country has won the most men's FIFA World Cup championships?",
+    "answers": [
+      { "ans": "Brazil", "isCorrect": true },
+      { "ans": "Germany", "isCorrect": false },
+      { "ans": "Italy", "isCorrect": false },
+      { "ans": "Argentina", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the organization that governs professional tennis worldwide?",
+    "answers": [
+      { "ans": "ATP", "isCorrect": false },
+      { "ans": "WTA", "isCorrect": false },
+      { "ans": "ITF", "isCorrect": true },
+      { "ans": "USTA", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the famous golf tournament held annually at Augusta National Golf Club?",
+    "answers": [
+      { "ans": "The Masters", "isCorrect": true },
+      { "ans": "The Open Championship", "isCorrect": false },
+      { "ans": "The US Open", "isCorrect": false },
+      { "ans": "The PGA Championship", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most Olympic gold medals won by an individual athlete?",
+    "answers": [
+      { "ans": "Michael Phelps", "isCorrect": true },
+      { "ans": "Usain Bolt", "isCorrect": false },
+      { "ans": "Larisa Latynina", "isCorrect": false },
+      { "ans": "Paavo Nurmi", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the annual cycling race that takes place in France?",
+    "answers": [{ "ans": "Tour de France", "isCorrect": true }, { "ans": "Giro d'Italia", "isCorrect": false }, { "ans": "Vuelta a España", "isCorrect": false }, { "ans": "Paris-Roubaix", "isCorrect": false }],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the annual championship game of the National Football League (NFL)?",
+    "answers": [
+      { "ans": "Super Bowl", "isCorrect": true },
+      { "ans": "World Series", "isCorrect": false },
+      { "ans": "Stanley Cup Finals", "isCorrect": false },
+      { "ans": "NBA Finals", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the professional basketball league in the United States?",
+    "answers": [
+      { "ans": "NBA", "isCorrect": true },
+      { "ans": "WNBA", "isCorrect": false },
+      { "ans": "ABA", "isCorrect": false },
+      { "ans": "NCAA", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is the name of the four-yearly international multi-sports event featuring summer and winter sportss?",
+    "answers": [
+      { "ans": "Olympic Games", "isCorrect": true },
+      { "ans": "World Cup", "isCorrect": false },
+      { "ans": "Commonwealth Games", "isCorrect": false },
+      { "ans": "Asian Games", "isCorrect": false }
+    ],
+    "category": "sports"
+  },
+  {
+    "question": "What is Avogadro's number?",
+    "answers": [
+      { "ans": "6.02 x 10^23", "isCorrect": true },
+      { "ans": "0.602 x 10^23", "isCorrect": false },
+      { "ans": "6.20 x 10^23", "isCorrect": false },
+      { "ans": "6.02 x 10^24", "isCorrect": false }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name of the process by which a gas turns into a liquid?",
+    "answers": [
+      { "ans": "Melting", "isCorrect": false },
+      { "ans": "Sublimation", "isCorrect": false },
+      { "ans": "Evaporation", "isCorrect": false },
+      { "ans": "Condensation", "isCorrect": true }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the smallest unit of an element that still has the properties of that element?",
+    "answers": [
+      { "ans": "Atom", "isCorrect": true },
+      { "ans": "Molecule", "isCorrect": false },
+      { "ans": "Cell", "isCorrect": false },
+      { "ans": "Particle", "isCorrect": false }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the process by which a solid changes directly into a gas called?",
+    "answers": [
+      { "ans": "Sublimation", "isCorrect": true },
+      { "ans": "Evaporation", "isCorrect": false },
+      { "ans": "Condensation", "isCorrect": false },
+      { "ans": "Melting", "isCorrect": false }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the pH of a neutral solution?",
+    "answers": [
+      { "ans": "7", "isCorrect": true },
+      { "ans": "0", "isCorrect": false },
+      { "ans": "14", "isCorrect": false },
+      { "ans": "1", "isCorrect": false }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the attractive force between two atoms when they share electrons?",
+    "answers": [
+      { "ans": "Ionic bond", "isCorrect": false },
+      { "ans": "Covalent bond", "isCorrect": true },
+      { "ans": "Hydrogen bond", "isCorrect": false },
+      { "ans": "Van der Waals force", "isCorrect": false }
+  ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the formula for water?",
+    "answers": [{ "ans": "H2SO4", "isCorrect": false }, { "ans": "H2O", "isCorrect": true }, { "ans": "NaCl", "isCorrect": false }, { "ans": "CO2", "isCorrect": false }],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the study of carbon compounds?",
+    "answers": [
+      { "ans": "Organic chemistry", "isCorrect": true },
+      { "ans": "Inorganic chemistry", "isCorrect": false },
+      { "ans": "Biochemistry", "isCorrect": false },
+      { "ans": "Physical chemistry", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the process by which a metal is coated with another metal?",
+    "answers": [
+      { "ans": "Electrolysis", "isCorrect": false },
+      { "ans": "Oxidation", "isCorrect": false },
+      { "ans": "Galvanization", "isCorrect": true },
+      { "ans": "Reduction", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for a substance that speeds up a chemical reaction without being consumed in the reaction?",
+    "answers": [
+      { "ans": "Catalyst", "isCorrect": true },
+      { "ans": "Reactant", "isCorrect": false },
+      { "ans": "Product", "isCorrect": false },
+      { "ans": "Inhibitor", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the process by which a nucleus splits into two or more smaller nuclei called?",
+    "answers": [
+      { "ans": "Fusion", "isCorrect": false },
+      { "ans": "Decay", "isCorrect": false },
+      { "ans": "Fission", "isCorrect": true },
+      { "ans": "Combustion", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for a measure of how easily a material can conduct electricity?",
+    "answers": [
+      { "ans": "Density", "isCorrect": false },
+      { "ans": "Refractive index", "isCorrect": false },
+      { "ans": "Conductivity", "isCorrect": true },
+      { "ans": "Malleability", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the pH of a neutral solution?",
+    "answers": [{ "ans": "7", "isCorrect": true }, { "ans": "1", "isCorrect": false }, { "ans": "14", "isCorrect": false }, { "ans": "0", "isCorrect": false }],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the process by which a gas turns into a liquid?",
+    "answers": [
+      { "ans": "Sublimation", "isCorrect": false },
+      { "ans": "Condensation", "isCorrect": true },
+      { "ans": "Vaporization", "isCorrect": false },
+      { "ans": "Deposition", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for a reaction in which heat is absorbed?",
+    "answers": [
+      { "ans": "Exothermic", "isCorrect": false },
+      { "ans": "Thermodynamic", "isCorrect": false },
+      { "ans": "Endothermic", "isCorrect": true },
+      { "ans": "Catalytic", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the chemical bond formed between two nonmetal atoms?",
+    "answers": [
+      { "ans": "Ionic bond", "isCorrect": false },
+      { "ans": "Covalent bond", "isCorrect": true },
+      { "ans": "Metallic bond", "isCorrect": false },
+      { "ans": "Hydrogen bond", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the amount of heat needed to raise the temperature of 1 gram of water by 1 degree Celsius?",
+    "answers": [
+      { "ans": "Heat capacity", "isCorrect": false },
+      { "ans": "Latent heat", "isCorrect": false },
+      { "ans": "Specific heat", "isCorrect": true },
+      { "ans": "Thermal conductivity", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for a compound that donates hydrogen ions in a solution?",
+    "answers": [
+      { "ans": "Base", "isCorrect": false },
+      { "ans": "Acid", "isCorrect": true },
+      { "ans": "Salt", "isCorrect": false },
+      { "ans": "Solvent", "isCorrect": false }
+    ],
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the name for the process by which a liquid turns into a gas?",
+    "answers": [
+      { "ans": "Sublimation", "isCorrect": false },
+      { "ans": "Condensation", "isCorrect": false },
+      { "ans": "Vaporization", "isCorrect": true },
+      { "ans": "Deposition", "isCorrect": false }
+    ],
+    "category": "chemistry"
+    },
+  {
+    "question": "Who directed the 1972 film 'The Godfather'?",
+    "answers": [{ "ans": "Martin Scorsese", "isCorrect": false }, { "ans": "Francis Ford Coppola", "isCorrect": true }, { "ans": "Stanley Kubrick", "isCorrect": false }, { "ans": "Steven Spielberg", "isCorrect": false }],
+    "category": "films"
+  },
+  {
+    "question": "Who played the role of Neo in the 1999 film 'The Matrix'?",
+    "answers": [
+      { "ans": "Keanu Reeves", "isCorrect": true },
+      { "ans": "Tom Cruise", "isCorrect": false },
+      { "ans": "Leonardo DiCaprio", "isCorrect": false },
+      { "ans": "Brad Pitt", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which film won the Best Picture Oscar in 2020?",
+    "answers": [
+      { "ans": "1917", "isCorrect": false },
+      { "ans": "Joker", "isCorrect": false },
+      { "ans": "Parasite", "isCorrect": true },
+      { "ans": "Once Upon a Time in Hollywood", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Who played the role of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+    "answers": [
+      { "ans": "Robert Downey Jr.", "isCorrect": true },
+      { "ans": "Chris Evans", "isCorrect": false },
+      { "ans": "Chris Hemsworth", "isCorrect": false },
+      { "ans": "Tom Holland", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "What is the highest-grossing film of all time (as of 2021)?",
+    "answers": [
+      { "ans": "Avatar", "isCorrect": false },
+      { "ans": "Avengers: Endgame", "isCorrect": true },
+      { "ans": "Titanic", "isCorrect": false },
+      { "ans": "Star Wars: The Force Awakens", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which actor has won the most Academy Awards for Best Actor?",
+    "answers": [
+      { "ans": "Jack Nicholson", "isCorrect": false },
+      { "ans": "Tom Hanks", "isCorrect": true },
+      { "ans": "Marlon Brando", "isCorrect": false },
+      { "ans": "Daniel Day-Lewis", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Who directed the 1985 film 'Back to the Future'?",
+    "answers": [{ "ans": "Steven Spielberg", "isCorrect": false }, { "ans": "Robert Zemeckis", "isCorrect": true }, { "ans": "John Hughes", "isCorrect": false }, { "ans": "George Lucas", "isCorrect": false }],
+    "category": "films"
+  },
+  {
+    "question": "Which actor played the role of the Joker in the 2008 film 'The Dark Knight'?",
+    "answers": [
+      { "ans": "Heath Ledger", "isCorrect": true },
+      { "ans": "Joaquin Phoenix", "isCorrect": false },
+      { "ans": "Jared Leto", "isCorrect": false },
+      { "ans": "Jack Nicholson", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "What is the name of the fictional land in the 1939 film 'The Wizard of Oz'?",
+    "answers": [
+      { "ans": "Neverland", "isCorrect": false },
+      { "ans": "Wonderland", "isCorrect": false },
+      { "ans": "Oz", "isCorrect": true },
+      { "ans": "Narnia", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which actor played the role of Captain Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+    "answers": [
+      { "ans": "Brad Pitt", "isCorrect": false },
+      { "ans": "Johnny Depp", "isCorrect": true },
+      { "ans": "Tom Cruise", "isCorrect": false },
+      { "ans": "Leonardo DiCaprio", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Who won the Best Director Oscar for the 2016 film 'La La Land'?",
+    "answers": [
+      { "ans": "Denis Villeneuve", "isCorrect": false },
+      { "ans": "Damien Chazelle", "isCorrect": true },
+      { "ans": "Barry Jenkins", "isCorrect": false },
+      { "ans": "Mel Gibson", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "What is the name of the robot in the 2008 Pixar film 'WALL-E'?",
+    "answers": [
+      { "ans": "EVE", "isCorrect": false },
+      { "ans": "BOLT", "isCorrect": false },
+      { "ans": "WALL-E", "isCorrect": true },
+      { "ans": "R2-D2", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which film franchise features characters named Optimus Prime and Bumblebee?",
+    "answers": [{ "ans": "Harry Potter", "isCorrect": false }, { "ans": "Fast and Furious", "isCorrect": false }, { "ans": "Transformers", "isCorrect": true }, { "ans": "Jurassic Park", "isCorrect": false }],
+    "category": "films"
+  },
+  {
+    "question": "Who played the title role in the 1993 film 'Schindler's List'?",
+    "answers": [
+      { "ans": "Liam Neeson", "isCorrect": true },
+      { "ans": "Tom Hanks", "isCorrect": false },
+      { "ans": "Anthony Hopkins", "isCorrect": false },
+      { "ans": "Sean Connery", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "What is the highest-grossing film of all time (as of 2021)?",
+    "answers": [
+      { "ans": "Avatar", "isCorrect": true },
+      { "ans": "Avengers: Endgame", "isCorrect": false },
+      { "ans": "Titanic", "isCorrect": false },
+      { "ans": "Star Wars: The Force Awakens", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Who directed the 1972 film 'The Godfather'?",
+    "answers": [
+      { "ans": "Martin Scorsese", "isCorrect": false },
+      { "ans": "Steven Spielberg", "isCorrect": false },
+      { "ans": "Francis Ford Coppola", "isCorrect": true },
+      { "ans": "Alfred Hitchcock", "isCorrect": false }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which film won the Best Picture Oscar in 2020?",
+    "answers": [
+      { "ans": "The Irishman", "isCorrect": false },
+      { "ans": "1917", "isCorrect": false },
+      { "ans": "Joker", "isCorrect": false },
+      { "ans": "Parasite", "isCorrect": true }
+    ],
+    "category": "films"
+  },
+  {
+    "question": "Which actor played the lead role in the 1995 film 'Braveheart'?",
+    "answers": [
+      { "ans": "Mel Gibson", "isCorrect": true },
+      { "ans": "Russell Crowe", "isCorrect": false },
+      { "ans": "Sean Connery", "isCorrect": false },
+      { "ans": "Liam Neeson", "isCorrect": false }
+    ],
+    "category": "films"
+  }
+,
+  {
+    "question": "Who plays the character of Harry Potter in the film series?",
+    "answers": [{ "ans": "Daniel Radcliffe", "isCorrect": true }, { "ans": "Rupert Grint", "isCorrect": false }, { "ans": "Tom Felton", "isCorrect": false }, { "ans": "Emma Watson", "isCorrect": false }],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "What is the name of the second book in the Harry Potter series?",
+    "answers": [
+      { "ans": "Harry Potter and the Philosopher's Stone", "isCorrect": false },
+      { "ans": "Harry Potter and the Goblet of Fire", "isCorrect": false },
+      { "ans": "Harry Potter and the Chamber of Secrets", "isCorrect": true },
+      { "ans": "Harry Potter and the Order of Phoenix", "isCorrect": false }
+    ],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "What is the name of the school where Harry Potter learns magic?",
+    "answers": [
+      { "ans": "Hogwarts School of Magic", "isCorrect": false },
+      { "ans": "Ilvermorny School of Witchcraft and Wizardry", "isCorrect": false },
+      { "ans": "Beauxbatons Academy of Magic", "isCorrect": false },
+      { "ans": "Hogwarts School of Witchcraft and Wizardry", "isCorrect": true }
+    ],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "What is the name of Harry Potter's owl?",
+    "answers": [
+      { "ans": "Hedwig", "isCorrect": true },
+      { "ans": "Crookshanks", "isCorrect": false },
+      { "ans": "Fawkes", "isCorrect": false },
+      { "ans": "Scabbers", "isCorrect": false }
+    ],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "Who is the arch-nemesis of Harry Potter?",
+    "answers": [
+      { "ans": "Draco Malfoy", "isCorrect": false },
+      { "ans": "Severus Snape", "isCorrect": false },
+      { "ans": "Lord Voldemort", "isCorrect": true },
+      { "ans": "Lucius Malfoy", "isCorrect": false }
+    ],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "What is the name of the final book in the Harry Potter series?",
+    "answers": [
+      { "ans": "Harry Potter and the Philosopher's Stone", "isCorrect": false },
+      { "ans": "Harry Potter and the Deathly Hallows", "isCorrect": true },
+      { "ans": "Harry Potter and the Half-Blood Prince", "isCorrect": false },
+      { "ans": "Harry Potter and the Order of Phoenix", "isCorrect": false }
+    ],
+    "category": "Harry Potter"
+  },
+  {
+    "question": "What is the highest-grossing movie of all time?",
+    "answers": [{ "ans": "Avatar", "isCorrect": false }, { "ans": "Avengers: Endgame", "isCorrect": true }, { "ans": "Titanic", "isCorrect": false }, { "ans": "Star Wars: The Force Awakens", "isCorrect": false }],
+    "category": "Films"
+  },
+  {
+    "question": "Which actress won an Academy Award for her role in the 2019 movie 'Judy'?",
+    "answers": [
+      { "ans": "Renée Zellweger", "isCorrect": true },
+      { "ans": "Charlize Theron", "isCorrect": false },
+      { "ans": "Saoirse Ronan", "isCorrect": false },
+      { "ans": "Scarlett Johansson", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Who directed the 1997 film 'Good Will Hunting'?",
+    "answers": [
+      { "ans": "Gus Van Sant", "isCorrect": true },
+      { "ans": "Steven Spielberg", "isCorrect": false },
+      { "ans": "Martin Scorsese", "isCorrect": false },
+      { "ans": "Christopher Nolan", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Which movie features the song 'My Heart Will Go On' by Celine Dion?",
+    "answers": [
+      { "ans": "Forrest Gump", "isCorrect": false },
+      { "ans": "The Lion King", "isCorrect": false },
+      { "ans": "Titanic", "isCorrect": true },
+      { "ans": "The Shawshank Redemption", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Which movie won the Best Picture award at the 2020 Academy Awards?",
+    "answers": [
+      { "ans": "Joker", "isCorrect": false },
+      { "ans": "1917", "isCorrect": false },
+      { "ans": "Parasite", "isCorrect": true },
+      { "ans": "Once Upon a Time in Hollywood", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Who played the character of Michael Corleone in 'The Godfather'?",
+    "answers": [
+      { "ans": "Al Pacino", "isCorrect": true },
+      { "ans": "Robert De Niro", "isCorrect": false },
+      { "ans": "Marlon Brando", "isCorrect": false },
+      { "ans": "James Caan", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Who played the character of Daenerys Targaryen in the TV series 'Game of Thrones'?",
+    "answers": [{ "ans": "Emilia Clarke", "isCorrect": true }, { "ans": "Lena Headey", "isCorrect": false }, { "ans": "Sophie Turner", "isCorrect": false }, { "ans": "Maisie Williams", "isCorrect": false }],
+    "category": "Films"
+  },
+  {
+    "question": "Who is the author of the 'A Song of Ice and Fire' book series that 'Game of Thrones' is based on?",
+    "answers": [
+      { "ans": "George R. R. Martin", "isCorrect": true },
+      { "ans": "J. R. R. Tolkien", "isCorrect": false },
+      { "ans": "J. K. Rowling", "isCorrect": false },
+      { "ans": "Stephen King", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Who directed the final episode of 'Game of Thrones'?",
+    "answers": [
+      { "ans": "David Benioff and D. B. Weiss", "isCorrect": false },
+      { "ans": "Miguel Sapochnik", "isCorrect": false },
+      { "ans": "David Nutter", "isCorrect": true },
+      { "ans": "Alan Taylor", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "What is the name of the family that rules the North in 'Game of Thrones'?",
+    "answers": [
+      { "ans": "Targaryen", "isCorrect": false },
+      { "ans": "Lannister", "isCorrect": false },
+      { "ans": "Stark", "isCorrect": true },
+      { "ans": "Baratheon", "isCorrect": false }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "What is the name of the weapon that Arya Stark uses to kill the Night King?",
+    "answers": [
+      { "ans": "Needle", "isCorrect": false },
+      { "ans": "Longclaw", "isCorrect": false },
+      { "ans": "Ice", "isCorrect": false },
+      { "ans": "Valyrian steel dagger", "isCorrect": true }
+    ],
+    "category": "Films"
+  },
+  {
+    "question": "Who played the character of Jon Snow in the TV series 'Game of Thrones'?",
+    "answers": [
+      { "ans": "Richard Madden", "isCorrect": false },
+      { "ans": "Kit Harington", "isCorrect": true },
+      { "ans": "Nikolaj Coster-Waldau", "isCorrect": false },
+      { "ans": "Pedro Pascal", "isCorrect": false }
+    ],
+    "category": "Films"
+  }, {
+    "question": "What is the process by which plants convert sunlight into energy called?",
+    "answers": [{ "ans": "Photosynthesis", "isCorrect": true }, { "ans": "Cellular respiration", "isCorrect": false }, { "ans": "Fermentation", "isCorrect": false }, { "ans": "Glycolysis", "isCorrect": false }],
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of a human cell is responsible for producing energy?",
+    "answers": [
+      { "ans": "Nucleus", "isCorrect": false },
+      { "ans": "Mitochondria", "isCorrect": true },
+      { "ans": "Ribosomes", "isCorrect": false },
+      { "ans": "Endoplasmic reticulum", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "Which of the following blood vessels carries oxygenated blood from the lungs to the heart?",
+    "answers": [
+      { "ans": "Aorta", "isCorrect": false },
+      { "ans": "Pulmonary artery", "isCorrect": false },
+      { "ans": "Pulmonary vein", "isCorrect": true },
+      { "ans": "Vena cava", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answers": [
+      { "ans": "Liver", "isCorrect": false },
+      { "ans": "Skin", "isCorrect": true },
+      { "ans": "Heart", "isCorrect": false },
+      { "ans": "Lungs", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the process by which the body eliminates waste products from the blood?",
+    "answers": [
+      { "ans": "Photosynthesis", "isCorrect": false },
+      { "ans": "Filtration", "isCorrect": true },
+      { "ans": "Respiration", "isCorrect": false },
+      { "ans": "Digestion", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the chemical messenger that is produced by endocrine glands?",
+    "answers": [
+      { "ans": "Hormones", "isCorrect": true },
+      { "ans": "Enzymes", "isCorrect": false },
+      { "ans": "Antibodies", "isCorrect": false },
+      { "ans": "Neurotransmitters", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of blood cells are responsible for carrying oxygen throughout the body?",
+    "answers": [{ "ans": "Red blood cells", "isCorrect": true }, { "ans": "White blood cells", "isCorrect": false }, { "ans": "Platelets", "isCorrect": false }, { "ans": "Neurons", "isCorrect": false }],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the process by which cells break down glucose to produce energy?",
+    "answers": [
+      { "ans": "Photosynthesis", "isCorrect": false },
+      { "ans": "Cellular respiration", "isCorrect": true },
+      { "ans": "Fermentation", "isCorrect": false },
+      { "ans": "Glycolysis", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the fluid that surrounds the cells in the body?",
+    "answers": [
+      { "ans": "Lymph", "isCorrect": false },
+      { "ans": "Cerebrospinal fluid", "isCorrect": false },
+      { "ans": "Plasma", "isCorrect": false },
+      { "ans": "Extracellular fluid", "isCorrect": true }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the protein that makes up hair and nails in humans?",
+    "answers": [
+      { "ans": "Keratin", "isCorrect": true },
+      { "ans": "Collagen", "isCorrect": false },
+      { "ans": "Elastin", "isCorrect": false },
+      { "ans": "Myosin", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the sac that surrounds and protects the heart?",
+    "answers": [
+      { "ans": "Peritoneum", "isCorrect": false },
+      { "ans": "Pericardium", "isCorrect": true },
+      { "ans": "Pleura", "isCorrect": false },
+      { "ans": "Meninges", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the hormone that regulates blood sugar levels?",
+    "answers": [
+      { "ans": "Insulin", "isCorrect": true },
+      { "ans": "Adrenaline", "isCorrect": false },
+      { "ans": "Thyroxine", "isCorrect": false },
+      { "ans": "Growth hormone", "isCorrect": false }
+    ],
+    "category": "Biology"
+  },
+  {
+    "question": "What is the name of the process by which plants convert sunlight into energy?",
+    "answers": [
+      { "ans": "Respiration", "isCorrect": false },
+      { "ans": "Photosynthesis", "isCorrect": true },
+      { "ans": "Digestion", "isCorrect": false },
+      { "ans": "Fermentation", "isCorrect": false }
+  ],
+    "category": "Biology"
+},
+  {
+    "question": "Who wrote the poem 'The Waste Land'?",
+    "answers": [{ "ans": "T.S. Eliot", "isCorrect": true }, { "ans": "William Shakespeare", "isCorrect": false }, { "ans": "Robert Frost", "isCorrect": false }, { "ans": "Sylvia Plath", "isCorrect": false }],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'Half a league, half a league'?",
+    "answers": [
+      { "ans": "Ode to a Nightingale", "isCorrect": false },
+      { "ans": "The Charge of the Light Brigade", "isCorrect": true },
+      { "ans": "The Waste Land", "isCorrect": false },
+      { "ans": "Do Not Go Gentle into That Good Night", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who wrote the poem 'Howl'?",
+    "answers": [
+      { "ans": "Allen Ginsberg", "isCorrect": true },
+      { "ans": "Maya Angelou", "isCorrect": false },
+      { "ans": "Langston Hughes", "isCorrect": false },
+      { "ans": "Pablo Neruda", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'Shall I compare thee to a summer's day?'",
+    "answers": [
+      { "ans": "The Love Song of J. Alfred Prufrock", "isCorrect": false },
+      { "ans": "When You Are Old", "isCorrect": false },
+      { "ans": "Do Not Go Gentle into That Good Night", "isCorrect": false },
+      { "ans": "Sonnet 18", "isCorrect": true }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'Tyger Tyger, burning bright'?",
+    "answers": [
+      { "ans": "The Second Coming", "isCorrect": false },
+      { "ans": "The Waste Land", "isCorrect": false },
+      { "ans": "Ode to a Nightingale", "isCorrect": false },
+      { "ans": "The Tyger", "isCorrect": true }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who wrote the poem 'The Love Song of J. Alfred Prufrock'?",
+    "answers": [
+      { "ans": "T.S. Eliot", "isCorrect": true },
+      { "ans": "Emily Dickinson", "isCorrect": false },
+      { "ans": "Walt Whitman", "isCorrect": false },
+      { "ans": "William Wordsworth", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who wrote the poem 'Stopping by Woods on a Snowy Evening'?",
+    "answers": [{ "ans": "Emily Dickinson", "isCorrect": false }, { "ans": "William Butler Yeats", "isCorrect": false }, { "ans": "Robert Frost", "isCorrect": true }, { "ans": "Sylvia Plath", "isCorrect": false }],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'I wandered lonely as a cloud'?",
+    "answers": [
+      { "ans": "The Waste Land", "isCorrect": false },
+      { "ans": "The Tyger", "isCorrect": false },
+      { "ans": "Daffodils", "isCorrect": true },
+      { "ans": "The Second Coming", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who wrote the poem 'The Rime of the Ancient Mariner'?",
+    "answers": [
+      { "ans": "John Keats", "isCorrect": false },
+      { "ans": "Percy Bysshe Shelley", "isCorrect": false },
+      { "ans": "Samuel Taylor Coleridge", "isCorrect": true },
+      { "ans": "William Wordsworth", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'Because I could not stop for Death'?",
+    "answers": [
+      { "ans": "Do Not Go Gentle into That Good Night", "isCorrect": false },
+      { "ans": "The Love Song of J. Alfred Prufrock", "isCorrect": false },
+      { "ans": "Because I could not stop for Death", "isCorrect": true },
+      { "ans": "When You Are Old", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who wrote the poem 'Annabel Lee'?",
+    "answers": [
+      { "ans": "Edgar Allan Poe", "isCorrect": true },
+      { "ans": "Robert Frost", "isCorrect": false },
+      { "ans": "Emily Dickinson", "isCorrect": false },
+      { "ans": "Walt Whitman", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "What is the name of the poem that begins 'Not marble nor the gilded monuments'?",
+    "answers": [
+      { "ans": "Shall I compare thee to a summer's day?", "isCorrect": false },
+      { "ans": "My Last Duchess", "isCorrect": false },
+      { "ans": "Sonnet 55", "isCorrect": true },
+      { "ans": "The Road Not Taken", "isCorrect": false }
+    ],
+    "category": "Poetry"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "answers": [{ "ans": "George Washington", "isCorrect": true }, { "ans": "Abraham Lincoln", "isCorrect": false }, { "ans": "Thomas Jefferson", "isCorrect": false }, { "ans": "John F. Kennedy", "isCorrect": false }],
+    "category": "History"
+  },
+  {
+    "question": "In what year did World War II begin?",
+    "answers": [
+      { "ans": "1914", "isCorrect": false },
+      { "ans": "1939", "isCorrect": true },
+      { "ans": "1945", "isCorrect": false },
+      { "ans": "1950", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "answers": [
+      { "ans": "Benito Mussolini", "isCorrect": false },
+      { "ans": "Adolf Hitler", "isCorrect": true },
+      { "ans": "Joseph Stalin", "isCorrect": false },
+      { "ans": "Winston Churchill", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "What was the main cause of the American Civil War?",
+    "answers": [
+      { "ans": "Slavery", "isCorrect": true },
+      { "ans": "States' rights", "isCorrect": false },
+      { "ans": "Taxes", "isCorrect": false },
+      { "ans": "Economic differences", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the first man to walk on the moon?",
+    "answers": [
+      { "ans": "Buzz Aldrin", "isCorrect": false },
+      { "ans": "Neil Armstrong", "isCorrect": true },
+      { "ans": "Yuri Gagarin", "isCorrect": false },
+      { "ans": "Alan Shepard", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answers": [
+      { "ans": "1989", "isCorrect": true },
+      { "ans": "1972", "isCorrect": false },
+      { "ans": "1991", "isCorrect": false },
+      { "ans": "1968", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Which European country colonized the most territory in Africa during the 19th century?",
+    "answers": [{ "ans": "France", "isCorrect": false }, { "ans": "Great Britain", "isCorrect": true }, { "ans": "Germany", "isCorrect": false }, { "ans": "Spain", "isCorrect": false }],
+    "category": "History"
+  },
+  {
+    "question": "Who was the first female prime minister of the United Kingdom?",
+    "answers": [
+      { "ans": "Theresa May", "isCorrect": false },
+      { "ans": "Margaret Thatcher", "isCorrect": true },
+      { "ans": "Angela Merkel", "isCorrect": false },
+      { "ans": "Indira Gandhi", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "In what year did the Korean War begin?",
+    "answers": [
+      { "ans": "1950", "isCorrect": true },
+      { "ans": "1945", "isCorrect": false },
+      { "ans": "1955", "isCorrect": false },
+      { "ans": "1960", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the first woman to be awarded the Nobel Prize?",
+    "answers": [
+      { "ans": "Marie Curie", "isCorrect": true },
+      { "ans": "Florence Nightingale", "isCorrect": false },
+      { "ans": "Emily Davison", "isCorrect": false },
+      { "ans": "Rosalind Franklin", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the president of the United States during World War I?",
+    "answers": [
+      { "ans": "Woodrow Wilson", "isCorrect": true },
+      { "ans": "Franklin D. Roosevelt", "isCorrect": false },
+      { "ans": "Herbert Hoover", "isCorrect": false },
+      { "ans": "Harry S. Truman", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the first emperor of Rome?",
+    "answers": [
+      { "ans": "Julius Caesar", "isCorrect": false },
+      { "ans": "Augustus", "isCorrect": true },
+      { "ans": "Nero", "isCorrect": false },
+      { "ans": "Trajan", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who was the last emperor of the Roman Empire?",
+    "answers": [
+      { "ans": "Julius Caesar", "isCorrect": false },
+      { "ans": "Caligula", "isCorrect": false },
+      { "ans": "Constantine XI", "isCorrect": true },
+      { "ans": "Augustus", "isCorrect": false }
+      ],
+    "category": "History"
+  },
+  {
+    "question": "What event is credited with starting World War I?",
+    "answers": [
+      { "ans": "The sinking of the Lusitania", "isCorrect": false },
+      { "ans": "The assassination of Archduke Franz Ferdinand", "isCorrect": true },
+      { "ans": "The invasion of Poland", "isCorrect": false },
+      { "ans": "The bombing of Pearl Harbor", "isCorrect": false }
+    ],
+    "category": "History"
+  },
+  {
+    "question": "Who wrote the Communist Manifesto?",
+    "answers": [
+      { "ans": "Vladimir Lenin", "isCorrect": false },
+      { "ans": "Joseph Stalin", "isCorrect": false },
+      { "ans": "Karl Marx", "isCorrect": true },
+      { "ans": "Leon Trotsky", "isCorrect": false }
+      ],
+    "category": "History"
+  },
+  {
+    "question": "In what year did Christopher Columbus discover the New World?",
+    "answers": [
+      { "ans": "1492", "isCorrect": true },
+      { "ans": "1500", "isCorrect": false },
+      { "ans": "1600", "isCorrect": false },
+      { "ans": "1700", "isCorrect": false }
+      ],
+    "category": "History"
+  }
+]

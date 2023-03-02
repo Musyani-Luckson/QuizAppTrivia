@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>Quiz App</title>
+  <!-- Custom Styles -->
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
+</head>
+
+<body class="" id="body">
+  <div class="popuoDiv" id="popuoDiv">
+    <div class=" popuoDivBox">
+      <div class="popuoDivTop">
+
+        <div class="top sides" id="">
+          <div class="text">
+            Scored
+          </div>
+          <div class="figuresDiv">
+            <div class="percentageDiv" id="scoredPercentageDiv">
+              3%
+            </div>
+            <div class="numberDiv" id="scoredNumberDiv">
+              7
+            </div>
+          </div>
+        </div>
+
+        <div class="topBox midSides" id="percenage">100%</div>
+        <div class="top sides" id="">
+          <div class="text">
+            Missed
+          </div>
+          <div class="figuresDiv">
+            <div class="percentageDiv" id="missedPercentageDiv">
+              9%
+            </div>
+            <div class="numberDiv" id="missedNumberDiv">
+              12
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="popuoDivBottom">
+        <button type="button" class="btn bg-danger" id="exit">Exit</button>
+        <button type="button" class="btn bg-success" id="playAgain">Play</button>
+
+      </div>
+    </div>
+  </div>
+  <div class="mainBox">
+    <div class="top">
+
+      <div class="f1 form-floating">
+        <select class="f2 form-select formSelect" id="categoryId" name="category"></select>
+        <label for="categoryId" class="form-label"> Category </label>
+      </div>
+      <div class="form-floating">
+        <select class="form-select formSelect" id="maxQustionId" name="maxQuestion"></select>
+        <label for="maxQustionId" class="form-label">
+          Number of questions
+        </label>
+      </div>
+      <button value="start" type="button" class=" card card-outline-danger timer" id="displayTime">0</button>
+    </div>
+
+    <div class="card bottom">
+      <div class="board">
+        <div id="categoryName">
+          category
+        </div>
+        <div class="ScoreBoard">
+          <div class="boards" id="maxOfX">
+            max/x
+          </div>
+          <div class="boards scores">
+            <div class="scoreNum" id="scored">0</div>
+            <div class="scoreNum" id="missed">0</div>
+          </div>
+        </div>
+      </div>
+      <div class=" cardDiv">
+        <div class="questionDiv" id="questionDiv">
+          question
+        </div>
+        <div class="multipleChoices">
+          <button class=" answers">
+            <div class="letter">A</div>
+            <div class="answerValue"></div>
+          </button>
+          <button class=" answers">
+            <div class="letter">B</div>
+            <div class="answerValue"></div>
+          </button>
+          <button class=" answers">
+            <div class="letter">C</div>
+            <div class="answerValue"></div>
+          </button>
+          <button class=" answers">
+            <div class="letter">D</div>
+            <div class="answerValue"></div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="main.js"></script>
+</body>
+
+</html>
